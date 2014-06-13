@@ -1,0 +1,4 @@
+soundex
+=======
+
+soundex algorithm
