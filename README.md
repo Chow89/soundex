@@ -1,4 +1,4 @@
 soundex
 =======
 
-soundex algorithm
+soundex algorithm in Python
